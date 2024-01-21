@@ -1,6 +1,5 @@
 streamlit
 plotly
-plotly.express
 express
 pandas
 os
